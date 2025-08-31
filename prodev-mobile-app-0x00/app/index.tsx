@@ -11,5 +11,7 @@ export default function Index() {
     >
       <Text>First App Created</Text>
     </View>
+    <Text>First App Created</Text>
+
   );
 }
